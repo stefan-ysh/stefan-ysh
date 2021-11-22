@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I'm YuanShuai(苑帅)
 
 - 🔭 I’m currently working as a frontend developer on SiChuang
-- 🌱 \[ Vue, TypeScript, Electron ] Lover
-- 📍 广州
+- 🌱 \[ Vue, Javascript, TypeScript, Electron ] Lover
+- 📍 Guangzhou,China
 - 📫 stefan_ysh@foxmail.com
 
 More details on [My blog](https://stefan-ysh.github.io/).
