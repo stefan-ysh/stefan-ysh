@@ -34,5 +34,6 @@ More details on [My blog](https://stefan-ysh.github.io/).
 
 ### Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=stefan-ysh&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=stefan-ysh&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff) -->
+![](https://github-readme-stats.vercel.app/api?username=stefan-ysh&hide_title=true&show_icons=true&icon_color=007aff&text_color=FFF&theme=radical)
 
