@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+<!-- ### Hi there 👋
 
 I'm YuanShuai(苑帅)
 
 - 🔭 I’m currently working as a frontend developer on SiChuang
 - 🌱 \[ Vue, Javascript, TypeScript, Electron ] Lover
 - 📍 Guangzhou,China
-- 📫 stefan_ysh@foxmail.com
+- 📫 stefan_ysh@foxmail.com -->
 
-More details on [My blog](https://stefan-ysh.github.io/).
+<!-- More details on [My blog](https://stefan-ysh.github.io/). -->
 
 <!--  # Nazarov Asadbek  
 - 👋 Hi, I’m YuanShuai(苑帅)
@@ -34,7 +34,7 @@ More details on [My blog](https://stefan-ysh.github.io/).
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Nazarov Asadbek&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Yuan Shuai&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+NazarovAsadbek;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
