@@ -46,7 +46,7 @@ I'm stefan-ysh(苑帅)
  
 <!-- .stars 啥的 -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=stefan-ysh&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=DD272700" alt="stefan-ysh github stats" /> 
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=stefan-ysh&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=23272d" alt="stefan-ysh github stats" /> 
  
 <!--  top language -->
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefan-ysh&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=DD272700" />
