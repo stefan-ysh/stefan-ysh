@@ -49,12 +49,12 @@ I'm stefan-ysh(苑帅)
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=stefan-ysh&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=23272d" alt="stefan-ysh github stats" /> 
  
 <!--  top language -->
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefan-ysh&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=DD272700" />
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefan-ysh&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=23272d" />
 </div>
 
 <!-- 提交折线图  -->
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=stefan-ysh&theme=react-dark&hide_border=false&area=true&bg_color=DD272700" />
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=stefan-ysh&theme=react-dark&hide_border=false&area=true&bg_color=23272d" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=stefan-ysh&theme=react-dark&hide_border=true&area=true) -->
 </div>
 <!-- <div align="center" >   
@@ -83,27 +83,27 @@ I'm stefan-ysh(苑帅)
 
 ### Main skills:
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-23272d?style=for-the-badge&logo=html5&labelColor=23272d)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-23272d?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=23272d)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-23272d?style=for-the-badge&logo=javascript&labelColor=23272d&textColor=23272d)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-23272d?style=for-the-badge&logo=vue-dot-js&labelColor=23272d)&nbsp;
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23272d?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=23272d)&nbsp;
+![Git](https://img.shields.io/badge/-Git-23272d?style=for-the-badge&logo=git&labelColor=23272d)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-23272d?style=for-the-badge&logo=github&labelColor=23272d)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-23272d?style=for-the-badge&logo=adobe-photoshop&labelColor=23272d)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-23272d?style=for-the-badge&logo=windows&labelColor=23272d)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-23272d?style=for-the-badge&logo=microsoft-office&labelColor=23272d)&nbsp;
 <!-- ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp; -->
 
 ### Other Knowledge:
 
-![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-<!-- ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp; -->
-![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-23272d?style=for-the-badge&logo=typescript&labelColor=23272d)&nbsp;
+<!-- ![Boostrap](https://img.shields.io/badge/-boostrap-23272d?style=for-the-badge&logo=bootstrap&labelColor=23272d)&nbsp; -->
+![Markdown](https://img.shields.io/badge/-Markdown-23272d?style=for-the-badge&logo=markdown&labelColor=23272d)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-23272d?style=for-the-badge&logo=node.js&labelColor=23272d)&nbsp;
 
 <!-- ### Studying in this moment: 
 
