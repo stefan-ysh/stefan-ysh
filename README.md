@@ -41,16 +41,20 @@ I'm stefan-ysh(苑帅)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+stefan-ysh;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
 <!-- 总体情况 -->
-<div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=stefan-ysh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nazarov Asadbek" /></div>
+<!-- <div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=stefan-ysh&theme=nord&date_format=M%20j%5B%2C%20Y%5D&background=DD272700" alt="Yuan Shuai" /></div> -->
+
  
 <!-- .stars 啥的 -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=stefan-ysh&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="stefan-ysh github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefan-ysh&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=stefan-ysh&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=DD272700" alt="stefan-ysh github stats" /> 
+ 
+<!--  top language -->
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefan-ysh&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=DD272700" />
 </div>
+
 <!-- 提交折线图  -->
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=stefan-ysh&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=stefan-ysh&theme=react-dark&hide_border=false&area=true&bg_color=DD272700" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=stefan-ysh&theme=react-dark&hide_border=true&area=true) -->
 </div>
 <!-- <div align="center" >   
