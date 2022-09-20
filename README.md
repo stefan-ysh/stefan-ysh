@@ -86,7 +86,12 @@ I'm stefan-ysh(苑帅)
 ![HTML](https://img.shields.io/badge/-HTML-23272d?style=for-the-badge&logo=html5&labelColor=23272d)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-23272d?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=23272d)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23272d?style=for-the-badge&logo=javascript&labelColor=23272d&textColor=23272d)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-23272d?style=for-the-badge&logo=vue-dot-js&labelColor=23272d)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-23272d?style=for-the-badge&logo=typescript&labelColor=23272d)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-23272d?style=for-the-badge&logo=vue.js&labelColor=23272d)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-23272d?style=for-the-badge&logo=react&labelColor=23272d)&nbsp;
+![Electron.js](https://img.shields.io/badge/-electron-23272d?style=for-the-badge&logo=electron&labelColor=23272d)&nbsp;
+
+
 
 ### Tools:
 
@@ -95,12 +100,13 @@ I'm stefan-ysh(苑帅)
 ![GitHub](https://img.shields.io/badge/-GitHub-23272d?style=for-the-badge&logo=github&labelColor=23272d)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-23272d?style=for-the-badge&logo=adobe-photoshop&labelColor=23272d)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-23272d?style=for-the-badge&logo=windows&labelColor=23272d)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-23272d?style=for-the-badge&logo=microsoft-office&labelColor=23272d)&nbsp;
+![Microsoft-office](https://img.shields.io/badge/-microsoft_office-23272d?style=for-the-badge&logo=microsoft-office&labelColor=23272d)&nbsp;
+![Blender](https://img.shields.io/badge/-blender-23272d?style=for-the-badge&logo=blender&labelColor=23272d)&nbsp;
 <!-- ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp; -->
 
 ### Other Knowledge:
 
-![typescript](https://img.shields.io/badge/-typescript-23272d?style=for-the-badge&logo=typescript&labelColor=23272d)&nbsp;
+
 <!-- ![Boostrap](https://img.shields.io/badge/-boostrap-23272d?style=for-the-badge&logo=bootstrap&labelColor=23272d)&nbsp; -->
 ![Markdown](https://img.shields.io/badge/-Markdown-23272d?style=for-the-badge&logo=markdown&labelColor=23272d)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-23272d?style=for-the-badge&logo=node.js&labelColor=23272d)&nbsp;
