@@ -38,10 +38,10 @@ More details on [My blog](https://stefan-ysh.github.io/).
 
 <!-- .stars 啥的 -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=stefan-ysh&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=23272d" alt="stefan-ysh github stats" /> 
+  <img width="auto" height="150" src="https://github-readme-stats.vercel.app/api?username=stefan-ysh&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=23272d" alt="stefan-ysh github stats" /> 
  
 <!--  top language -->
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefan-ysh&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=23272d" />
+  <img width="auto" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefan-ysh&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=23272d" />
 </div>
 
 <!-- 提交折线图  -->
